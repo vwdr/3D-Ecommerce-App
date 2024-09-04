@@ -28,4 +28,4 @@ Interactive 3D website developed using Three.js and GSAP. The project emphasizes
 
 ## **Lessons Learned**
 
-- **Try it:** soda3d.netlify.app
+- **Try it:** ![TryIT](soda3d.netlify.app)
