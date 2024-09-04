@@ -25,3 +25,7 @@ Interactive 3D website developed using Three.js and GSAP. The project emphasizes
 - **Design vs. Performance:** Learned to balance aesthetics with functionality to create a better user experience.
 - **Three.js Mastery:** Developed a deep understanding of 3D web development using Three.js.
 - **Responsive 3D Techniques:** Acquired skills in making 3D environments adaptable to various screen sizes.
+
+## **Lessons Learned**
+
+- **Try it:** soda3d.netlify.app
